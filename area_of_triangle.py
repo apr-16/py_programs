@@ -21,4 +21,4 @@ a=int(input())
 b=math.sqrt(3)
 c=b/4
 area=c*a*a
-print("area is",area)
+print("area is ",area)
