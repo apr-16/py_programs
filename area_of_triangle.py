@@ -15,6 +15,7 @@
 #d=s*((s-a)*(s-b)*(s-c))
 #area=math.sqrt(d)
 #print("Area is ",area)
+
 import math
 print("enter the side of triangle")
 a=int(input())
