@@ -1,5 +1,4 @@
-﻿<image src="messi.gif">
-<image src="6KpW.gif">
+
 
 ![](Aspose.Words.f857609c-2b05-45d2-8bb6-add55f678ed3.001.png)
 
